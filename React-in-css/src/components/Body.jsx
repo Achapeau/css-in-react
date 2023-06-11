@@ -7,7 +7,7 @@ const StyledBody = styled.p`
     color: Black;
     font-family: "Roboto"
     border-radius: 15px;
-    margin: 2rem;
+    margin: 1.5rem;
 `;
 
 const Body = () => {
