@@ -1,1 +1,1 @@
-# react-in-css
+# css-in-react
